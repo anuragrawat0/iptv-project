@@ -12,7 +12,7 @@ interface Channel {
 
 type FetchResult = { count: number; channels: Channel[] };
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = process.env.REACT_APP_API_BASE || "http://localhost:8000";
 const DEBOUNCE_MS = 300;
 
 const App: React.FC = () => {
