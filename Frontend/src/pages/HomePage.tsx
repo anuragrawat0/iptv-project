@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import FilterBar from "@/components/FilterBar";
 import ChannelGrid from "@/components/ChannelGrid";
 import Pagination from "@/components/Pagination";

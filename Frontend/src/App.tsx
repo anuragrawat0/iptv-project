@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import HomePage from "@/pages/HomePage";
 import { Sun, Moon } from "lucide-react";
 import logoUrl from '../lulu-tv.svg';

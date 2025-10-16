@@ -1,4 +1,3 @@
-import React from "react";
 import ChannelCard from "./ChannelCard";
 import { AnimatePresence, motion } from "framer-motion";
 
