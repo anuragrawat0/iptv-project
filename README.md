@@ -1,4 +1,3 @@
-PTV Unified API
 A FastAPI backend for unified access to IPTV channel, language, country, subdivision, and city data.
 Includes endpoints for searching, filtering, and validating IPTV streams, with support for pagination and metadata.
 
