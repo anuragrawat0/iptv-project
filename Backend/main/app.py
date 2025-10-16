@@ -35,6 +35,7 @@ _allowed_origins = [
     "http://localhost:5173",
     "http://localhost:5174",
     "http://localhost:8000",
+    'https://lulu-tv.netlify.app' 
     # add your production origin(s) here, e.g. "https://my-frontend.example"
 ]
 
